@@ -1,0 +1,1 @@
+# ally-tonconnect-manifest
